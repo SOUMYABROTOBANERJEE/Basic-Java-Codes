@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=D3Point()
+comment1.params=nx\ ny\ nz
+comment1.target=D3Point(double,\ double,\ double)
+comment2.params=b
+comment2.target=double\ distance3d(D3Point)
+numComments=3

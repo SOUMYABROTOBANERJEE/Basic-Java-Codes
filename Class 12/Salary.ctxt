@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ name\ desig\ sal
+comment0.target=Salary(int,\ java.lang.String,\ java.lang.String,\ float)
+comment1.params=
+comment1.target=void\ calculate()
+numComments=2

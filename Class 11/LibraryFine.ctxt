@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LibraryFine()
+comment1.params=d\ f
+comment1.target=LibraryFine(int,\ double)
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ calculate()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

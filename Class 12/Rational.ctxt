@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rational()
+comment1.params=a\ b
+comment1.target=Rational(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ HCF(int,\ int)
+comment3.params=
+comment3.target=void\ simplify()
+comment4.params=A\ B
+comment4.target=Rational\ addRational(Rational,\ Rational)
+comment5.params=
+comment5.target=void\ printx()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

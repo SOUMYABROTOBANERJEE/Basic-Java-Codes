@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p\ q
+comment0.target=MatrixRearrange(int,\ int)
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=void\ convert()
+comment3.params=
+comment3.target=void\ withoutOneD()
+comment4.params=
+comment4.target=void\ searchSort()
+comment5.params=
+comment5.target=void\ bubbleSort()
+comment6.params=
+comment6.target=void\ arrange()
+comment7.params=
+comment7.target=void\ printMaxMin()
+comment8.params=
+comment8.target=void\ display()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

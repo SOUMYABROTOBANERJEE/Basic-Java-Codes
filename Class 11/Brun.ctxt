@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=Brun(int,\ int)
+comment1.params=a
+comment1.target=int\ isPrime(int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

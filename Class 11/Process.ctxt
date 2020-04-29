@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Process(double,\ java.lang.String)
+comment1.params=s
+comment1.target=double\ run(double)
+comment2.params=
+comment2.target=boolean\ isFinished()
+comment3.params=
+comment3.target=void\ displayCompletion()
+comment4.params=
+comment4.target=double\ time()
+comment5.params=
+comment5.target=java.lang.String\ name()
+numComments=6

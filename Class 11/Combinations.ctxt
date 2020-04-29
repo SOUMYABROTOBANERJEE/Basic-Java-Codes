@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ arrange(int)
+comment1.params=n
+comment1.target=int\ nod(int)
+comment2.params=n
+comment2.target=void\ main(int)
+numComments=3
